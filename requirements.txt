@@ -9,3 +9,4 @@ vtk
 mrcfile
 napari
 opencv-python
+scikit-image
